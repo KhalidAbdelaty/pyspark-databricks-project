@@ -17,7 +17,6 @@ Welcome to my PySpark and Databricks project! This repository contains an end-to
 - [Results and Insights](#results-and-insights)
 - [How to Run](#how-to-run)
 - [Conclusion](#conclusion)
-- [License](#license)
 
 ## Introduction
 
