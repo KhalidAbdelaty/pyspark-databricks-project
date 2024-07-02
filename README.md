@@ -71,7 +71,7 @@ Through this project, I extracted valuable insights:
 To run this project, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/pyspark-databricks-project.git
+   git clone https://github.com/KhalidAbdelaty/pyspark-databricks-project.git
    ```
 2. Open the notebook in Databricks.
 3. Run each cell to see the data transformation, aggregation, and visualization steps.
